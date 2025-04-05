@@ -2,6 +2,15 @@
 # telebot_GPT_3.5_Turbo_DSM_1.0
 
 
+#conda create --name myenv python=3.10
+
+# To activate this environment, use
+#
+#     $ conda activate myenv
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
 ## Prerequisites
 you will need:
 
